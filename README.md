@@ -1,6 +1,7 @@
 # Eye Movement Excercise
 
 <img src= "https://github.com/jessica-medley/eye-movement/blob/main/eyemovementscreenshot.png" width='300'/>
+
 ## Description:
 These eyes will follow your mouse movement on the page. I added a second eye so both eyes will watch the mouse move.
 
