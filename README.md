@@ -1,5 +1,14 @@
-Title of the project: Eye Movement Exercise
-Description of the project: What does the current project do?  Include improvements you made in the description. 
-How to Run: This is information someone would use to run your project on their machine.
-Roadmap of future improvements: What additional features or functionality would be helpful to a user? 
-License information: This should include information about the MIT license. 
+# Eye Movement Excercise
+
+<img src= "https://github.com/jessica-medley/eye-movement/blob/main/eyemovementscreenshot.png" width='300'/>
+## Description:
+These eyes will follow your mouse movement on the page. I added a second eye so both eyes will watch the mouse move.
+
+## How to Run: 
+Simply copy the files into one folder on your computer, then open the html file in a browser. You could also drag the html file over to the browser. Once the page loads, move you mouse around on the page to see the eyes move.
+
+## Roadmap of future improvements:
+Add function so if the mouse clicks once one eye winks.
+
+## License information:
+MIT license. 
