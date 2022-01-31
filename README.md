@@ -12,4 +12,4 @@ Simply copy the files into one folder on your computer, then open the html file 
 Add function so if the mouse clicks once one eye winks.
 
 ## License information:
-MIT license. 
+[MIT license](https://github.com/jessica-medley/eye-movement/blob/main/LICENSE)
